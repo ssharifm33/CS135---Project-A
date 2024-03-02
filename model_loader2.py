@@ -17,8 +17,8 @@ import pickle
 
 # TODO: please replace the line below with your implementations. The line below is just an 
 # example. 
-from stub.feature_extraction import dumb_feature_extractor2
-extract_awesome_features = dumb_feature_extractor2
+from stub.feature_extraction import extract_BoW_features2
+extract_awesome_features = extract_BoW_features2
 
 # TODO: please load your own trained models. Please check train_and_save_classifier.py to find 
 # an example of training and saving a classiifer. 
